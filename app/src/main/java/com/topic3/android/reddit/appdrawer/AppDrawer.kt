@@ -169,6 +169,7 @@ private fun AppDrawerFooter(modifier: Modifier = Modifier) {
         }
     )
   }
+  \\
 }
 
 private fun changeTheme() {
